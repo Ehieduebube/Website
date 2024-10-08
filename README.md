@@ -2,7 +2,7 @@
 
 My website
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### live preview - https://website-pi-two-78.vercel.app/
 
 ### Features
 

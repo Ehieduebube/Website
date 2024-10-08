@@ -2,7 +2,7 @@
 
 My website
 
-### live preview - https://website-pi-two-78.vercel.app/
+live preview - https://website-pi-two-78.vercel.app/
 
 ### Features
 
@@ -13,10 +13,6 @@ My website
 - Edit Content From One Place
 
 ### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
  
 Install required dependencies
 

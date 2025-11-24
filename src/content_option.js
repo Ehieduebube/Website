@@ -1,37 +1,37 @@
 const logotext = "Ebube";
 const meta = {
     title: "Ebube",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+   
 };
 
 const introdata = {
-    title: "I’m Ebube Ehiedu John",
+    title: "Ebube Ehiedu John",
     animated: {
-        second: "I develop Web Apps ",
-        third: "I develop Websites",
+        second: " Software Developer ",
+        third: " Frontend Developer ",
     },
-    description: "Thank you for visiting my website. I am thrilled at the prospect of working with you to bring your digital dreams to life. Let's embark on a collaborative journey and create something truly extraordinary together.",
+    description: "Hello and welcome! I’m passionate about developing webapps, websites and digital solutions that not only look good but truly deliver. I’d love the chance to work with you and bring your vision to life.",
     your_img_url: "/images/me.png",
 };
 
 const dataabout = {
     title: "about myself",
-    aboutme: "Welcome to my world of web design and development! I'm Ebube, a passionate and experienced professional in creating visually captivating and highly functional websites. I have a strong passion for everything digital, and I want to devote my professional life to turning concepts into breathtaking online experiences. My knowledge of HTML, CSS, JavaScript, and other cutting-edge technologies has improved. In order to create websites that not only meet but also surpass clients' expectations, I make it a point to keep current with the newest trends and best practices. ",
+    aboutme: "Hi, I’m Ebube. I love building websites that look great and actually work. Turning ideas into smooth, engaging online experiences is what gets me excited every day. I work with HTML, CSS, JavaScript, and other modern tools to bring concepts to life, and I always keep up with the latest trends so my work not only meets but goes beyond what clients expect. ",
 };
 
 const worktimeline = [{
         jobtitle: "Designer of week",
-        where: "YAdfi",
+        where: "z",
         date: "2020",
     },
     {
         jobtitle: "Designer of week",
-        where: "Jamalya",
+        where: "a",
         date: "2019",
     },
     {
         jobtitle: "Designer of week",
-        where: "ALquds",
+        where: "q",
         date: "2019",
     },
 ];
@@ -99,9 +99,9 @@ const facts =  [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Weather App.",
-        link: "https://vercel.live/link/weather-app-peach-three-88.vercel.app/?via=team-dashboard-project-entity&p=1",
+        img: "https://cdn.pixabay.com/photo/2022/01/18/11/42/repair-6946846_1280.png",
+        description: "Crud App.",
+        link: "https://vercel.live/link/crud-blue.vercel.app/?via=team-dashboard-project-entity&p=1",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
@@ -118,8 +118,13 @@ const dataportfolio = [{
         description: "Placeholder.",
         link: "#",
     },
+     {
+        img: "https://cdn.pixabay.com/photo/2016/11/29/07/19/clouds-1868060_1280.jpg",
+        description: "Weather App.",
+        link: "https://vercel.live/link/weather-app-peach-three-88.vercel.app/?via=team-dashboard-project-entity&p=1",
+    },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://cdn.pixabay.com/photo/2012/02/19/10/49/music-14906_1280.jpg",
         description: "Music Player.",
         link: "https://vercel.live/link/music-player-rho-wine.vercel.app/?via=team-dashboard-project-entity&p=1",
     },
@@ -139,11 +144,7 @@ const dataportfolio = [{
         description: "Placeholder.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Crud App.",
-        link: "https://vercel.live/link/crud-blue.vercel.app/?via=team-dashboard-project-entity&p=1",
-    },
+    
     {
         img: "https://picsum.photos/400/550/?grayscale",
         description: "Placeholder.",
